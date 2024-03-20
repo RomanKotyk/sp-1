@@ -1,2 +1,2 @@
 # sp-1
-![screenshot](s1.png)
+![screenshots](s1.png)
