@@ -18,7 +18,7 @@
 
 ![image](https://github.com/RomanKotyk/sp-1/assets/77327791/d87846ac-6177-4a5e-83c5-cd63837279bc)
 
-[Код програми](https://djinni.co/jobs/?page=2)
+[Код програми]([https://djinni.co/jobs/?page=2](https://github.com/RomanKotyk/sp-1/blob/main/sp_1.cpp))
 
 Результати тестування: 
 
